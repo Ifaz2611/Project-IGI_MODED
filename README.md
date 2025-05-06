@@ -25,24 +25,6 @@ A modern remake of the classic tactical FPS game **Project IGI (I'm Going In)**.
 - Git
 - Visual Studio or VS Code
 
-### Installation
-
-```bash
-git clone https://github.com/Ifaz2611/project IGI MODED.git
-cd project-igi-remake
-Open the project with Unity Hub and run the game from the MainMenu scene.
-
-🎮 Controls
-Action	Key/Mouse
-Move	WASD
-Aim	Right Mouse
-Shoot	Left Mouse
-Crouch	Ctrl
-Jump	Spacebar
-Interact	E
-Inventory	I
-Pause Menu	ESC
-
 🧩 Modding Support
 Drop your custom maps, textures, or weapon files into the Mods/ folder. A mod loader will detect and apply them on game launch.
 
