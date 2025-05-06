@@ -26,7 +26,6 @@ A modern remake of the classic tactical FPS game **Project IGI (I'm Going In)**.
 - Visual Studio or VS Code
 
 🧩 Modding Support
-Drop your custom maps, textures, or weapon files into the Mods/ folder. A mod loader will detect and apply them on game launch.
 
 💾 Save & Load
 The game automatically saves progress and allows players to manually save/load from the pause menu.
@@ -35,7 +34,7 @@ The game automatically saves progress and allows players to manually save/load f
 Pull requests are welcome! Please open an issue to discuss any changes or enhancements before submitting a PR.
 
 📄 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License (not yet).
 
 🚧 Disclaimer
 This is a fan-made project and is not affiliated with Innerloop Studios or Codemasters. All trademarks and original content are property of their respective owners.
